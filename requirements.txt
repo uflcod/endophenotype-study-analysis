@@ -13,6 +13,7 @@ ipykernel
 sklearn
 xgboost
 shap
+mlxtend
 
 # visualiztion libraries
 matplotlib
